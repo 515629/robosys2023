@@ -1,2 +1,4 @@
 # robosys2023
-I think that my mothers image is not correct.
+
+* このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
+  * © 2023 Jun Tokoeda
