@@ -8,7 +8,7 @@
 ## インストール方法
 1 GitHubからリポジトリをクローンする
 ```
-$git clone https://github.com/515629/robosys2023.git
+$git clone https://githiub.com/515629/robosys2023.git
 ```
 2 リポジトリのディレクトリに移動する
 ```
@@ -32,6 +32,11 @@ $seq 10 | ./plus
 
 ## テスト環境
 * Ubuntu 22.04.2 LTS
+
+## 作成者
+*床枝　純
+*千葉工業大学未来ロボティクス学科所属
+*tokojun15@outlook.jp
 
 ## ライセンスや著作権
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可される
