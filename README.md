@@ -8,16 +8,16 @@
 ## インストール方法
 1 GitHubからリポジトリをクローンする
 ```
-git clone https://github.com/515629/robosys2023.git
+$git clone https://github.com/515629/robosys2023.git
 ```
 2 リポジトリのディレクトリに移動する
 ```
-cd robosys2023
+$cd robosys2023
 ```
 ## 使い方
-1 次のコードを入力して実行する
+次のコードを入力して実行する
 ```
-seq n | ./plus
+$seq n | ./plus
 ```
 ここで、nは任意の正の整数で、このコマンドは、1からnまでの整数の和を計算する
 ## 必要なソフトウェア
