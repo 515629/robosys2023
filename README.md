@@ -2,9 +2,8 @@
 # plusコマンド
 [![test](https://github.com/515629/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/515629/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す。
-
 ## 何をするためのソフトウェアか
+このソフトウェアは,標準入力から読み込んだ数字を足すものです。
 
 ## 使い方
 
