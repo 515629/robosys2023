@@ -40,6 +40,7 @@ $seq 10 | ./plus
 
 ## ライセンスや著作権
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可される
-* このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものである
-	* [ryuichiueda.github.io/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* このパッケージのコードは、Ryuichi Ueda氏の以下のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）を参考に、本人の許可を得て自身の著作としたものである
+	* [ryuichiueda/my_slides robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* [ryuichiueda/my_slides robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2023 Jun Tokoeda
