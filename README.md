@@ -10,8 +10,8 @@
 wget https://github.com/515629/robosys2023/raw/main/plus
 
 2ダウンロードしたplusファイルを実行可能にします：
-```bash
-chmod +x plus
+
+```chmod +x plus
 
 ## 使い方
 1ターミナルを開き、plusコマンドを実行します：
