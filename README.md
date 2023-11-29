@@ -6,11 +6,11 @@
 このソフトウェアは,標準入力から読み込んだ数字を足すもの
 
 ## インストール方法
-1 GitHubからリポジトリをクローンする
+初めにGitHubからリポジトリをクローンする
 ```
 $git clone https://githiub.com/515629/robosys2023.git
 ```
-2 リポジトリのディレクトリに移動する
+クローン出来たらリポジトリのディレクトリに移動する
 ```
 $cd robosys2023
 ```
@@ -41,6 +41,6 @@ $seq 10 | ./plus
 ## ライセンスや著作権
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可される
 * このパッケージのコードは、Ryuichi Ueda氏の以下のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）を参考に、本人の許可を得て自身の著作としたものである
-	* [ryuichiueda/my_slides robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
-	* [ryuichiueda/my_slides robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* [ryuichiueda/my_slides/robosys_2022/lesson5.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+	* [ryuichiueda/my_slides/robosys_2022/lesson7.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * © 2023 Jun Tokoeda
